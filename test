@@ -1,0 +1,4 @@
+$('#regular_price').text(regularPrice);
+                                $('#regular_price_days').text(regularDays);
+                                $('#discounted_price').text(discountedPrice);
+                                $('#discounted_price_days').text(discountedDays);
